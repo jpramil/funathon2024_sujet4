@@ -1,0 +1,13 @@
+bs4
+datetime
+fastparquet
+matplotlib
+nltk
+pandas
+pyarrow
+pyLDAvis
+requests
+spacy
+tqdm
+unidecode
+wordcloud
