@@ -12,3 +12,5 @@ Etude des données [Trustpilot](https://fr.trustpilot.com/categories/airlines_ai
 2 parties :
 - Scraping des avis clients sur Trustpilot et bonnes pratiques de collecte
 - NLP & Sentiment Analysis : Analyse textuelle des commentaires
+
+Attention, si vous avez déjà fait le [sujet 5](https://github.com/InseeFrLab/funathon2023_sujet5) du funathon 2023 _"Analyse textuelle des commentaires clients de services de commande de repas en ligne"_, vous n'apprendrez rien en faisant celui-ci !
