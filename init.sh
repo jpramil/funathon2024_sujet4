@@ -1,8 +1,16 @@
 #!/bin/bash
 
-# Clone course repository
-REPO_URL="https://github.com/InseeFrLab/funathon2024_sujet4.git"
+# Check if the repository URL is provided
+if [ -z "$1" ]; then
+  echo "Usage: $0 <repository_url>"
+  exit 1
+fi
+
+# Set the repository URL
+REPO_URL="$1"
 CLONE_DIR="/home/onyxia/work/funathon-sujet4"
+
+# Clone the course repository
 git clone --depth 1 $REPO_URL $CLONE_DIR
 cd $CLONE_DIR
 
