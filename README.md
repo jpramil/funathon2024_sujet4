@@ -2,8 +2,11 @@
 
 Difficulté : Intermédiaire (guidé)
 
-Langages proposés :
-- Python : [lancer le tutoriel sur le SSP Cloud](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh%C2%BB)
+Langage proposé : `Python`
+
+[![](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational&color=yellow?logo=Python)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?version=1.13.36&autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh»&init.personalInitArgs=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet4.git»&onyxia.friendlyName=«funathon2024-sujet4»)
+
+⚠️ N'oubliez pas de remplacer dans l'onglet `Init` l'URL du dépôt pré-rempli par le vôtre (l'URL de votre _fork_)
 
 ## Analyse textuelle des commentaires clients d'agences de voyage en ligne
 
