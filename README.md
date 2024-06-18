@@ -4,7 +4,7 @@ Difficulté : Intermédiaire (guidé)
 
 Langage proposé : `Python`
 
-[![](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational&color=yellow?logo=Python)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?version=1.13.36&autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh»&init.personalInitArgs=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet4.git»&onyxia.friendlyName=«funathon2024-sujet4»)
+[![](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational&color=yellow?logo=Python)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?version=1.13.36&autoLaunch=false&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh»&init.personalInitArgs=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet4.git»&onyxia.friendlyName=«funathon2024-sujet4»)
 
 ⚠️ N'oubliez pas de remplacer dans l'onglet `Init` l'URL du dépôt pré-rempli par le vôtre (l'URL de votre _fork_)
 
